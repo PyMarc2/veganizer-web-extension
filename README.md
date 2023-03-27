@@ -1,0 +1,1 @@
+# veganizer-web-extension
